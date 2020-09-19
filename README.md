@@ -17,9 +17,11 @@ To install pip:-
 $ python get-pip.py
 
 To verify the version of pip :-
+
 $ pip -V
 
 To install other dependencies : -
+
 $ pip install flask
 
 $ pip install Flask-SQLAlchemy
